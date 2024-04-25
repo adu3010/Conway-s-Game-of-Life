@@ -8,6 +8,26 @@ Customizable Grid: Choose the size of the grid and initial configurations to exp
 Pattern Library: Includes a collection of well-known patterns to kickstart your simulations.
 Configurable Rules: Modify the rules of the game to observe how different conditions affect the outcome.
 
+It is a zero-player game, meaning its evolution is determined by its initial state,requiring no further input.
+
+You can interact with the game of life by creating an initial configuration and observe how it evolves. 
+
+It is Turing complete.
+
+# RULES - The Game of Life is an infinite 2D orthogonal grid of square cells, each of which is in one of two possible states, live or dead. 
+
+Every cell interacts with its eight neighbors, which are the cells that are horizontally, vertically, or diagonally adjacent. At each step in time, the following transitions occur:
+
+1.Any live cell with fewer than two live neighbors dies, as if by underpopulation.
+
+2.Any live cell with two or three live neighbors lives on to the next generation.
+
+3.Any live cell with more than three live neighbors dies, as if by overpopulation.
+
+4.Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction
+
+The Game of Life is undecidable, which means that given an initial pattern and a later pattern, no algorithm exists that can tell whether the later pattern is ever going to appear
+
 
 # Getting Started:
 Clone the repository to your local machine.
