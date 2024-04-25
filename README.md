@@ -14,3 +14,5 @@ Clone the repository to your local machine.
 Install the required dependencies (numpy, matplotlib, etc.).
 Run the main script to start the simulation.
 Experiment with different configurations and observe the emergent behaviors.
+
+![image](https://github.com/adu3010/Conway-s-Game-of-Life/assets/50283146/f6cfe1f7-d1b7-4fe2-b85c-0f6d1b2a67ba)
