@@ -1,1 +1,16 @@
-# Conway-s-Game-of-Life
+# Conway's Game-of-Life
+
+Welcome to Conway's Game of Life, a classic cellular automaton simulation created by mathematician John Conway. This project is a part of my Masters Coursework, 'Adaptive Systems' which I am currently studying. It provides a Python implementation of the Game of Life, allowing you to explore the fascinating dynamics of simple rules applied to a grid of cells.
+
+#Features:
+Interactive Simulation: Watch as patterns evolve in real-time on the grid.
+Customizable Grid: Choose the size of the grid and initial configurations to experiment with different scenarios.
+Pattern Library: Includes a collection of well-known patterns to kickstart your simulations.
+Configurable Rules: Modify the rules of the game to observe how different conditions affect the outcome.
+
+
+#Getting Started:
+Clone the repository to your local machine.
+Install the required dependencies (numpy, matplotlib, etc.).
+Run the main script to start the simulation.
+Experiment with different configurations and observe the emergent behaviors.
